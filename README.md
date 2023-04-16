@@ -8,8 +8,6 @@ My path in Front-end development began in 2020 at freelance. Then, as a student,
 
 * 🌍  I'm based in Moldova, Chisinev
 * ✉️  You can contact me at [otostogan2020@gmail.com](mailto:otostogan2020@gmail.com)
-* 🚀  I'm currently working on [Camviewer](http://sobbeyy.uno)
-* 🧠  I'm learning TypeScript, ExpressJs, React, Web3.0
 * 🤝  I'm open to collaborating on intresting projects
 
 ### Skills
